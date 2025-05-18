@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "440818556775",
+    "project_id": "deeptalks-1ab0f",
+    "storage_bucket": "deeptalks-1ab0f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440818556775:android:bc63d40504a9a6f6e499c2",
+        "android_client_info": {
+          "package_name": "com.example.deeptalks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_UnRbyjPfA4QQaab7ElRe8u8fgnJpsq8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
